@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application8</string>
+    <string name="email_hint" />
+    <string name="password_hint" />
+    <string name="signup_btn" />
+    <string name="login_btn" />
+</resources>
